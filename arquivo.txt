@@ -1,4 +1,0 @@
-Atualização no código feita remotamente
-
-filype local
-filype remoto
